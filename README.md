@@ -3,7 +3,7 @@ On adventure on learning programming!
 I'm an Aspiring Software developer looking out for new opportunities .
 Learning **new things** Everyday . 
 
-**Contact:**
+**Gmail:**
 [Gmail](https://www.github.com/sahil14498@gmail.com)
 
 **Website:** [My Website](https://sahiljanbandhu.github.io/)
