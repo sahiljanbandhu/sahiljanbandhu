@@ -1,9 +1,10 @@
+### Hi i'm Sahil Janbandhu
 **"Life should be Great rather then Long".**
 On adventure on learning programming! 
 I'm an Aspiring Software developer looking out for new opportunities .
 Learning **new things** Everyday . 
 
-**Gmail:**
+**Gmail id:**
 [Gmail](https://www.github.com/sahil14498@gmail.com)
 
 **Website:** [My Website](https://sahiljanbandhu.github.io/)
