@@ -12,5 +12,14 @@ Learning **new things** Everyday .
 **Social Site:**
 [Twitter](https://twitter.com/sahil_janbandhu) [LinkedIn](https://www.linkedin.com/in/sahil-janbandhu/) [Facebook](https://www.facebook.com/s.d.janbandhu)
 
+  
+![Sahil Janbandhu Stats](https://github-readme-stats.vercel.app/api?username=sahiljanbandhu&show_icons=true&theme=vision-friendly-dark) & ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sahiljanbandhu&layout=compact)
+
+
+
+  
+
+
+
 
 
