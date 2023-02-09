@@ -16,7 +16,22 @@ Learning **new things** Everyday.
 <details>
   <summary>📈 My GitHub Stats</summary>
   
-   ![Sahil Janbandhu Stats](https://github-readme-stats.vercel.app/api?username=sahiljanbandhu&show_icons=true&theme=vision-friendly-dark)
+
+
+
+
+### Repo Stats
+| ![Sahil github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sahiljanbandhu&hide_border=true&layout=compact&hide_border=true&title_color=58A6FF&text_color=8C949E&icon_color=89E153&bg_color=0D1117) | ![Sahil github stats](https://github-readme-stats.vercel.app/api?username=sahiljanbandhu&show_icons=true&count_private=true&hide=issues&hide_border=true&title_color=58A6FF&text_color=8C949E&icon_color=89E153&bg_color=0D1117) |
+| ------------- | ------------- |
+
+
+### Stats
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sahiljanbandhu&" alt="sahiljanbandhu" /></p>
+</br>
+</br>
+
+![](https://activity-graph.herokuapp.com/graph?username=sahiljanbandhu&theme=github)
 
 
 
