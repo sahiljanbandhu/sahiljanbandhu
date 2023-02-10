@@ -2,7 +2,7 @@
 **"Life should be Great rather then Long".**
 On adventure on learning programming! 
 I'm an Aspiring Software developer looking out for new opportunities.
-Learning **new things** Everyday. 
+Learning **new things** Everyday
 
 **Gmail id:**
 [Gmail](https://www.github.com/sahil14498@gmail.com)
@@ -16,8 +16,6 @@ Learning **new things** Everyday.
 <details>
   <summary>📈 My GitHub Stats</summary>
   
-
-
 
 
 ### Repo Stats
